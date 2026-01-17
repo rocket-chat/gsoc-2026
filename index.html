@@ -20,6 +20,7 @@
                         <th class="px-4 py-4 text-center">Open PRs</th>
                         <th class="px-4 py-4 text-center">Merged PRs</th>
                         <th class="px-4 py-4 text-center">Issues</th>
+                        <th class="px-4 py-4 text-center">Total</th> 
                     </tr>
                 </thead>
                 <tbody id="leaderboard-body" class="divide-y divide-gray-800 bg-gray-900">
@@ -44,10 +45,7 @@
                 body.innerHTML = ''; 
                 
                 data.forEach((user, index) => {
-                    // Generates the Global Search URL: 
-                    // author:username + created date + type (Issues includes PRs in global search)
-                    const searchUrl = `https://github.com/search?q=author:${user.author}+created:>=${startDate}`;
-                    
+                    const searchUrl = `https://github.com/search?q=author:${user.author}+org:RocketChat+created:>=${startDate}`;
                     const total = user.open_prs + user.merged_prs + user.issues;
 
                     const row = `
@@ -75,3 +73,4 @@
     </script>
 </body>
 </html>
+
