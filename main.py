@@ -29,10 +29,11 @@ def fetch_activity():
                 stats[author]["issues"] += 1
         if 'next' not in resp.links: break
         params['page'] += 1
-
-    final_list = sorted(stats.values(), key=lambda x: x["open_prs"] + x["merged_prs"] + x["issues"], reverse=True)
+        
+    final_list = sorted(stats.values(), key=lambda x: (-x["merged_prs"], -x["open_prs"], -x["issues"], x["author"].lower()))
     with open('data.json', 'w') as f:
         json.dump(final_list, f)
 
 if __name__ == "__main__":
+
     fetch_activity()
