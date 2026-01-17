@@ -58,7 +58,6 @@ def fetch_activity():
         filtered_stats, 
         key=lambda x: (
             -x["merged_prs"],
-            -(x["open_prs"] + x["merged_prs"] + x["open_issues"]),
             -x["open_prs"],
             -x["open_issues"],
             x["author"].lower()
