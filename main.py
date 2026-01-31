@@ -17,7 +17,7 @@ EXCLUDED_USERS = {
     "rachana-visavadiya", "geekgonecrazy", "Dnouv", "nazabucciarelli", 
     "lingohub", "jonasflorencio", "jessicaschelly", "github-actions", 
     "dhairyashiil", "cubic-dev-ai", "abhinavkrin", "dhulke", "gabrielpetry", 
-    "yasnagat", "vampire-yuta", "debdutdeb", "[bot]"
+    "yasnagat", "vampire-yuta", "debdutdeb", "casalsgh", "[bot]"
 }
 
 def fetch_category(query_suffix, stat_key, stats):
@@ -79,3 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
