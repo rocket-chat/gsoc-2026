@@ -342,6 +342,12 @@
         "open_issues": 1
     },
     {
+        "author": "durgeshbg",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
         "author": "gaurirathi",
         "open_prs": 1,
         "merged_prs": 0,
@@ -475,6 +481,12 @@
     },
     {
         "author": "bhuvan-codes",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
+        "author": "chandraprakash-pandey",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 0
