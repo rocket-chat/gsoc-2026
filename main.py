@@ -1,10 +1,12 @@
 import requests
 import json
 import os
+import time
 
 TOKEN = os.getenv("GH_TOKEN")
 ORG = "RocketChat"
 START_DATE = "2025-12-01"
+
 EXCLUDED_USERS = {
     "KevLehman", "tassoevan", "pierre-lehnen-rc", "ggazzo", "gabriellsh", 
     "dionisio-bot", "diegolmello", "sampaiodiego", "MartinSchoeler", 
@@ -18,56 +20,62 @@ EXCLUDED_USERS = {
     "yasnagat", "vampire-yuta", "debdutdeb", "[bot]"
 }
 
-def fetch_activity():
-    stats = {}
+def fetch_category(query_suffix, stat_key, stats):
     url = "https://api.github.com/search/issues"
-    params = {"q": f"org:{ORG} created:>={START_DATE}", "per_page": 100, "page": 1}
+    query = f"org:{ORG} created:>={START_DATE} {query_suffix}"
+    params = {"per_page": 100, "page": 1, "q": query}
     headers = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
 
     while True:
         resp = requests.get(url, params=params, headers=headers)
-        items = resp.json().get('items', [])
-        if not items: break
+        
+        if resp.status_code == 403:
+            time.sleep(60)
+            continue
+        
+        data = resp.json()
+        items = data.get('items', [])
+        if not items:
+            break
         
         for item in items:
             author = item['user']['login']
-            if author in EXCLUDED_USERS or "[bot]" in author.lower(): 
+            if author in EXCLUDED_USERS or "[bot]" in author.lower():
                 continue
-                
-            if author not in stats: 
+            
+            if author not in stats:
                 stats[author] = {"author": author, "open_prs": 0, "merged_prs": 0, "open_issues": 0}
             
-            if "pull_request" in item:
-                if item.get('pull_request', {}).get('merged_at'): 
-                    stats[author]["merged_prs"] += 1
-                elif item['state'] == "open": 
-                    stats[author]["open_prs"] += 1
-            else:
-                if item['state'] == "open":
-                    stats[author]["open_issues"] += 1
-                    
-        if 'next' not in resp.links: break
+            stats[author][stat_key] += 1
+            
+        if 'next' not in resp.links:
+            break
         params['page'] += 1
 
-    filtered_stats = [
-        user for user in stats.values() 
-        if (user["open_prs"] + user["merged_prs"] + user["open_issues"]) > 0
+def main():
+    stats = {}
+    
+    search_configs = [
+        ("is:pr is:merged", "merged_prs"),
+        ("is:pr is:open", "open_prs"),
+        ("is:issue is:open", "open_issues")
     ]
+    
+    for suffix, key in search_configs:
+        fetch_category(suffix, key, stats)
 
     final_list = sorted(
-        filtered_stats, 
+        stats.values(), 
         key=lambda x: (
-            -x["merged_prs"],
-            -x["open_prs"],
-            -x["open_issues"],
+            -x["merged_prs"], 
+            -x["open_prs"], 
+            -x["open_issues"], 
             x["author"].lower()
         )
     )
 
     with open('data.json', 'w') as f:
-        json.dump(final_list, f)
+        json.dump(final_list, f, indent=4)
 
 if __name__ == "__main__":
-    fetch_activity()
-
-
+    main()
