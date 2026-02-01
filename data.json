@@ -174,6 +174,12 @@
         "open_issues": 0
     },
     {
+        "author": "moksha-hub",
+        "open_prs": 3,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
         "author": "shash-hq",
         "open_prs": 3,
         "merged_prs": 0,
@@ -247,12 +253,6 @@
     },
     {
         "author": "Jayant-kernel",
-        "open_prs": 2,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
-        "author": "moksha-hub",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 0
@@ -709,6 +709,12 @@
     },
     {
         "author": "Sahilpatil009",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
+        "author": "sairaj237",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 0
