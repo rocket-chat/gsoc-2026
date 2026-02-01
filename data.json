@@ -294,6 +294,12 @@
         "open_issues": 5
     },
     {
+        "author": "durgeshbg",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 2
+    },
+    {
         "author": "17dhruv",
         "open_prs": 1,
         "merged_prs": 0,
@@ -337,12 +343,6 @@
     },
     {
         "author": "DSingh0304",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 1
-    },
-    {
-        "author": "durgeshbg",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 1
