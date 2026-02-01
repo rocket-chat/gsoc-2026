@@ -360,6 +360,12 @@
         "open_issues": 1
     },
     {
+        "author": "Rahilralu",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
         "author": "rishika-2626",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1087,12 +1093,6 @@
     },
     {
         "author": "pratikshmalik05",
-        "open_prs": 0,
-        "merged_prs": 0,
-        "open_issues": 1
-    },
-    {
-        "author": "Rahilralu",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
