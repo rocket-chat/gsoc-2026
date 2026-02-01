@@ -210,6 +210,12 @@
         "open_issues": 2
     },
     {
+        "author": "durgeshbg",
+        "open_prs": 2,
+        "merged_prs": 0,
+        "open_issues": 2
+    },
+    {
         "author": "ghuls",
         "open_prs": 2,
         "merged_prs": 0,
@@ -292,12 +298,6 @@
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 5
-    },
-    {
-        "author": "durgeshbg",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 2
     },
     {
         "author": "17dhruv",
