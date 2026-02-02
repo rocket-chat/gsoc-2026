@@ -780,6 +780,12 @@
         "open_issues": 0
     },
     {
+        "author": "Spiral-Memory",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
         "author": "sudipta-dotcom",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1009,6 +1015,12 @@
     },
     {
         "author": "HenrySchwerdt",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "jeevan10017",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
