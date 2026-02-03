@@ -121,7 +121,7 @@
     },
     {
         "author": "ARYAN0-work",
-        "open_prs": 5,
+        "open_prs": 6,
         "merged_prs": 0,
         "open_issues": 1
     },
@@ -361,12 +361,6 @@
     },
     {
         "author": "Mubashir2611",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 1
-    },
-    {
-        "author": "pijush008",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 1
@@ -1020,6 +1014,12 @@
         "open_issues": 1
     },
     {
+        "author": "HelloJack0",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
         "author": "HenrySchwerdt",
         "open_prs": 0,
         "merged_prs": 0,
@@ -1111,6 +1111,12 @@
     },
     {
         "author": "NicKerrr",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "pijush008",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
