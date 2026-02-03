@@ -36,16 +36,16 @@
         "open_issues": 8
     },
     {
-        "author": "sezallagwal",
-        "open_prs": 5,
+        "author": "srijnabhargav",
+        "open_prs": 6,
         "merged_prs": 1,
         "open_issues": 5
     },
     {
-        "author": "srijnabhargav",
+        "author": "sezallagwal",
         "open_prs": 5,
         "merged_prs": 1,
-        "open_issues": 4
+        "open_issues": 5
     },
     {
         "author": "amitb0ra",
@@ -253,6 +253,12 @@
     },
     {
         "author": "moksha-hub",
+        "open_prs": 2,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
+        "author": "rushikesh-bobade",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 0
@@ -720,12 +726,6 @@
         "open_issues": 0
     },
     {
-        "author": "rushikesh-bobade",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
         "author": "Sahilpatil009",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1135,6 +1135,12 @@
     },
     {
         "author": "pratikshmalik05",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "PurnenduMIshra129th",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
