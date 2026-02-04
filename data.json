@@ -780,6 +780,12 @@
         "open_issues": 0
     },
     {
+        "author": "sapnilbiswas",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
         "author": "SarvasvaChaubey",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1225,6 +1231,12 @@
     },
     {
         "author": "Ryderjj89",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "S1m",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
