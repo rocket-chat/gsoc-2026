@@ -396,6 +396,12 @@
         "open_issues": 1
     },
     {
+        "author": "SrinjoyeeDey",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
         "author": "T4nya13",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1236,12 +1242,6 @@
         "open_issues": 1
     },
     {
-        "author": "SrinjoyeeDey",
-        "open_prs": 0,
-        "merged_prs": 0,
-        "open_issues": 1
-    },
-    {
         "author": "TLINDEN",
         "open_prs": 0,
         "merged_prs": 0,
@@ -1255,6 +1255,12 @@
     },
     {
         "author": "vincgj",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "wahrwolf",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
