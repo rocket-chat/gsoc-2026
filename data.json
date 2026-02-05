@@ -115,7 +115,7 @@
     },
     {
         "author": "Khizarshah01",
-        "open_prs": 10,
+        "open_prs": 9,
         "merged_prs": 0,
         "open_issues": 9
     },
@@ -306,12 +306,6 @@
         "open_issues": 5
     },
     {
-        "author": "Codersintu",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 2
-    },
-    {
         "author": "17dhruv",
         "open_prs": 1,
         "merged_prs": 0,
@@ -337,6 +331,12 @@
     },
     {
         "author": "AyushMukkanwar",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "Codersintu",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 1
