@@ -240,6 +240,12 @@
         "open_issues": 0
     },
     {
+        "author": "devkarx",
+        "open_prs": 2,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
         "author": "dikshaa2909",
         "open_prs": 2,
         "merged_prs": 0,
@@ -529,12 +535,6 @@
     },
     {
         "author": "coder-Yash886",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
-        "author": "devkarx",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 0
@@ -921,7 +921,7 @@
         "author": "PurnenduMIshra129th",
         "open_prs": 0,
         "merged_prs": 0,
-        "open_issues": 4
+        "open_issues": 3
     },
     {
         "author": "ashutosh-engineer",
