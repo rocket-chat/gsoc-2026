@@ -132,6 +132,12 @@
         "open_issues": 3
     },
     {
+        "author": "amankv1234",
+        "open_prs": 4,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
         "author": "vivekyadav-3",
         "open_prs": 4,
         "merged_prs": 0,
@@ -160,12 +166,6 @@
         "open_prs": 3,
         "merged_prs": 0,
         "open_issues": 5
-    },
-    {
-        "author": "amankv1234",
-        "open_prs": 3,
-        "merged_prs": 0,
-        "open_issues": 1
     },
     {
         "author": "Ironankit525",
