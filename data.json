@@ -648,12 +648,6 @@
         "open_issues": 0
     },
     {
-        "author": "kamlesh723",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
         "author": "kartik-ornate",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1321,6 +1315,12 @@
     },
     {
         "author": "simonschaufi",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "SnehaChauhan1174",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
