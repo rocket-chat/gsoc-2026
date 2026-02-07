@@ -168,12 +168,6 @@
         "open_issues": 1
     },
     {
-        "author": "Dnyanesh-29",
-        "open_prs": 3,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
         "author": "shash-hq",
         "open_prs": 3,
         "merged_prs": 0,
@@ -247,6 +241,12 @@
     },
     {
         "author": "dikshaa2909",
+        "open_prs": 2,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
+        "author": "Dnyanesh-29",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 0
