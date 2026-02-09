@@ -78,6 +78,12 @@
         "open_issues": 0
     },
     {
+        "author": "Harmeet221",
+        "open_prs": 0,
+        "merged_prs": 1,
+        "open_issues": 0
+    },
+    {
         "author": "joaocps",
         "open_prs": 0,
         "merged_prs": 1,
@@ -123,7 +129,7 @@
         "author": "ARYAN0-work",
         "open_prs": 7,
         "merged_prs": 0,
-        "open_issues": 1
+        "open_issues": 0
     },
     {
         "author": "laky241",
@@ -289,6 +295,12 @@
     },
     {
         "author": "Jayant-kernel",
+        "open_prs": 2,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
+        "author": "KumarHarshit3603",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 0
@@ -648,12 +660,6 @@
         "open_issues": 0
     },
     {
-        "author": "Harmeet221",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
         "author": "hemanthkumar-181020",
         "open_prs": 1,
         "merged_prs": 0,
@@ -691,12 +697,6 @@
     },
     {
         "author": "kartik-ornate",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
-        "author": "KumarHarshit3603",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 0
