@@ -360,6 +360,12 @@
         "open_issues": 3
     },
     {
+        "author": "ScriptShah",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 2
+    },
+    {
         "author": "17dhruv",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1033,12 +1039,6 @@
     },
     {
         "author": "lknite",
-        "open_prs": 0,
-        "merged_prs": 0,
-        "open_issues": 2
-    },
-    {
-        "author": "ScriptShah",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 2
