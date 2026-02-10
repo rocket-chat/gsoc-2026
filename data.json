@@ -360,12 +360,6 @@
         "open_issues": 3
     },
     {
-        "author": "ScriptShah",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 2
-    },
-    {
         "author": "17dhruv",
         "open_prs": 1,
         "merged_prs": 0,
@@ -457,6 +451,12 @@
     },
     {
         "author": "roushan-code",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "roy-abir05",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 1
@@ -1033,6 +1033,12 @@
     },
     {
         "author": "lknite",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 2
+    },
+    {
+        "author": "ScriptShah",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 2
