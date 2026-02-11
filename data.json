@@ -144,6 +144,18 @@
         "open_issues": 0
     },
     {
+        "author": "Shreyas2004wagh",
+        "open_prs": 5,
+        "merged_prs": 0,
+        "open_issues": 4
+    },
+    {
+        "author": "vivekyadav-3",
+        "open_prs": 5,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
         "author": "laky241",
         "open_prs": 5,
         "merged_prs": 0,
@@ -154,18 +166,6 @@
         "open_prs": 4,
         "merged_prs": 0,
         "open_issues": 3
-    },
-    {
-        "author": "Shreyas2004wagh",
-        "open_prs": 4,
-        "merged_prs": 0,
-        "open_issues": 3
-    },
-    {
-        "author": "vivekyadav-3",
-        "open_prs": 4,
-        "merged_prs": 0,
-        "open_issues": 1
     },
     {
         "author": "AVNSKS",
@@ -247,6 +247,12 @@
     },
     {
         "author": "anupam-pandey01",
+        "open_prs": 2,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "Codersintu",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 1
@@ -432,12 +438,6 @@
         "open_issues": 1
     },
     {
-        "author": "Codersintu",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 1
-    },
-    {
         "author": "dev-rohit-gupta",
         "open_prs": 1,
         "merged_prs": 0,
@@ -481,6 +481,12 @@
     },
     {
         "author": "Mubashir2611",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "Naetiksoni08",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 1
@@ -1327,12 +1333,6 @@
     },
     {
         "author": "naamyuvraj",
-        "open_prs": 0,
-        "merged_prs": 0,
-        "open_issues": 1
-    },
-    {
-        "author": "Naetiksoni08",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
