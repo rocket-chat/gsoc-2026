@@ -186,6 +186,12 @@
         "open_issues": 5
     },
     {
+        "author": "not-meet",
+        "open_prs": 3,
+        "merged_prs": 0,
+        "open_issues": 3
+    },
+    {
         "author": "Ironankit525",
         "open_prs": 3,
         "merged_prs": 0,
@@ -220,12 +226,6 @@
         "open_prs": 3,
         "merged_prs": 0,
         "open_issues": 0
-    },
-    {
-        "author": "not-meet",
-        "open_prs": 2,
-        "merged_prs": 0,
-        "open_issues": 3
     },
     {
         "author": "durgeshbg",
@@ -1327,6 +1327,12 @@
     },
     {
         "author": "naamyuvraj",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "Naetiksoni08",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
