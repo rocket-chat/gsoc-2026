@@ -192,6 +192,12 @@
         "open_issues": 3
     },
     {
+        "author": "mdawoud27",
+        "open_prs": 3,
+        "merged_prs": 0,
+        "open_issues": 2
+    },
+    {
         "author": "Dnyanesh-29",
         "open_prs": 3,
         "merged_prs": 0,
@@ -229,12 +235,6 @@
     },
     {
         "author": "durgeshbg",
-        "open_prs": 2,
-        "merged_prs": 0,
-        "open_issues": 2
-    },
-    {
-        "author": "mdawoud27",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 2
