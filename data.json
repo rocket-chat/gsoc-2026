@@ -72,6 +72,12 @@
         "open_issues": 2
     },
     {
+        "author": "ScriptShah",
+        "open_prs": 0,
+        "merged_prs": 1,
+        "open_issues": 1
+    },
+    {
         "author": "dhruvDev23",
         "open_prs": 0,
         "merged_prs": 1,
@@ -388,12 +394,6 @@
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 3
-    },
-    {
-        "author": "ScriptShah",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 2
     },
     {
         "author": "17dhruv",
