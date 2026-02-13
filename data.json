@@ -37,7 +37,7 @@
     },
     {
         "author": "sezallagwal",
-        "open_prs": 7,
+        "open_prs": 8,
         "merged_prs": 1,
         "open_issues": 5
     },
@@ -402,12 +402,6 @@
         "open_issues": 3
     },
     {
-        "author": "gauravsingh001-cyber",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 2
-    },
-    {
         "author": "17dhruv",
         "open_prs": 1,
         "merged_prs": 0,
@@ -463,6 +457,12 @@
     },
     {
         "author": "DSingh0304",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "gauravsingh001-cyber",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 1
@@ -985,12 +985,6 @@
     },
     {
         "author": "Sohamshah03",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
-        "author": "successbyte",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 0
