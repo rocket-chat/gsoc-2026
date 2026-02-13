@@ -19,9 +19,15 @@
     },
     {
         "author": "Pratheek555",
-        "open_prs": 9,
+        "open_prs": 8,
+        "merged_prs": 3,
+        "open_issues": 10
+    },
+    {
+        "author": "ScriptShah",
+        "open_prs": 0,
         "merged_prs": 2,
-        "open_issues": 11
+        "open_issues": 1
     },
     {
         "author": "divyanshu-patil",
@@ -64,12 +70,6 @@
         "open_prs": 3,
         "merged_prs": 1,
         "open_issues": 3
-    },
-    {
-        "author": "ScriptShah",
-        "open_prs": 1,
-        "merged_prs": 1,
-        "open_issues": 2
     },
     {
         "author": "smirk-dev",
