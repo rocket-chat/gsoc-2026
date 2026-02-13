@@ -25,7 +25,7 @@
     },
     {
         "author": "ScriptShah",
-        "open_prs": 0,
+        "open_prs": 1,
         "merged_prs": 2,
         "open_issues": 1
     },
@@ -156,13 +156,13 @@
         "open_issues": 0
     },
     {
-        "author": "laky241",
-        "open_prs": 5,
+        "author": "TheRazorbill",
+        "open_prs": 6,
         "merged_prs": 0,
         "open_issues": 0
     },
     {
-        "author": "TheRazorbill",
+        "author": "laky241",
         "open_prs": 5,
         "merged_prs": 0,
         "open_issues": 0
@@ -289,6 +289,12 @@
     },
     {
         "author": "SnehaChauhan1174",
+        "open_prs": 2,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "successbyte",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 1
@@ -990,12 +996,6 @@
         "open_issues": 0
     },
     {
-        "author": "successbyte",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
         "author": "sudipta-dotcom",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1153,6 +1153,12 @@
     },
     {
         "author": "Anishp-cell",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "artyoomi",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
