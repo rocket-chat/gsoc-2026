@@ -84,6 +84,12 @@
         "open_issues": 1
     },
     {
+        "author": "Harmeet221",
+        "open_prs": 1,
+        "merged_prs": 1,
+        "open_issues": 0
+    },
+    {
         "author": "wx-11",
         "open_prs": 0,
         "merged_prs": 1,
@@ -91,12 +97,6 @@
     },
     {
         "author": "dhruvDev23",
-        "open_prs": 0,
-        "merged_prs": 1,
-        "open_issues": 0
-    },
-    {
-        "author": "Harmeet221",
         "open_prs": 0,
         "merged_prs": 1,
         "open_issues": 0
@@ -985,6 +985,12 @@
     },
     {
         "author": "Sohamshah03",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 0
+    },
+    {
+        "author": "successbyte",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 0
