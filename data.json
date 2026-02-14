@@ -36,16 +36,16 @@
         "open_issues": 6
     },
     {
+        "author": "sezallagwal",
+        "open_prs": 10,
+        "merged_prs": 1,
+        "open_issues": 5
+    },
+    {
         "author": "Agarwalchetan",
         "open_prs": 9,
         "merged_prs": 1,
         "open_issues": 9
-    },
-    {
-        "author": "sezallagwal",
-        "open_prs": 9,
-        "merged_prs": 1,
-        "open_issues": 5
     },
     {
         "author": "Shreyas2004wagh",
@@ -145,7 +145,7 @@
     },
     {
         "author": "vivekyadav-3",
-        "open_prs": 7,
+        "open_prs": 8,
         "merged_prs": 0,
         "open_issues": 1
     },
@@ -214,6 +214,12 @@
         "open_prs": 3,
         "merged_prs": 0,
         "open_issues": 2
+    },
+    {
+        "author": "Dnyanesh-29",
+        "open_prs": 3,
+        "merged_prs": 0,
+        "open_issues": 0
     },
     {
         "author": "Ironankit525",
@@ -331,12 +337,6 @@
     },
     {
         "author": "dikshaa2909",
-        "open_prs": 2,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
-        "author": "Dnyanesh-29",
         "open_prs": 2,
         "merged_prs": 0,
         "open_issues": 0
