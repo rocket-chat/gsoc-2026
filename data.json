@@ -162,6 +162,12 @@
         "open_issues": 0
     },
     {
+        "author": "successbyte",
+        "open_prs": 5,
+        "merged_prs": 0,
+        "open_issues": 4
+    },
+    {
         "author": "laky241",
         "open_prs": 5,
         "merged_prs": 0,
@@ -175,12 +181,6 @@
     },
     {
         "author": "Anshumancanrock",
-        "open_prs": 4,
-        "merged_prs": 0,
-        "open_issues": 3
-    },
-    {
-        "author": "successbyte",
         "open_prs": 4,
         "merged_prs": 0,
         "open_issues": 3
@@ -1303,6 +1303,12 @@
     },
     {
         "author": "krishnaGauss",
+        "open_prs": 0,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
+        "author": "krishnavermaKV",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
