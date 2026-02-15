@@ -102,6 +102,12 @@
         "open_issues": 0
     },
     {
+        "author": "JeffreytheCoder",
+        "open_prs": 0,
+        "merged_prs": 1,
+        "open_issues": 0
+    },
+    {
         "author": "joaocps",
         "open_prs": 0,
         "merged_prs": 1,
@@ -751,12 +757,6 @@
     },
     {
         "author": "Jaysinh146",
-        "open_prs": 1,
-        "merged_prs": 0,
-        "open_issues": 0
-    },
-    {
-        "author": "JeffreytheCoder",
         "open_prs": 1,
         "merged_prs": 0,
         "open_issues": 0
