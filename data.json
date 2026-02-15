@@ -552,6 +552,12 @@
         "open_issues": 1
     },
     {
+        "author": "swarajreddy10",
+        "open_prs": 1,
+        "merged_prs": 0,
+        "open_issues": 1
+    },
+    {
         "author": "T4nya13",
         "open_prs": 1,
         "merged_prs": 0,
@@ -1465,12 +1471,6 @@
     },
     {
         "author": "simonschaufi",
-        "open_prs": 0,
-        "merged_prs": 0,
-        "open_issues": 1
-    },
-    {
-        "author": "swarajreddy10",
         "open_prs": 0,
         "merged_prs": 0,
         "open_issues": 1
